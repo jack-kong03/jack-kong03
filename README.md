@@ -1,9 +1,28 @@
 # Hello World 👋 I'm Jack  
 
-## 💡 About Me  
-🎓 First-Class BSc (Hons) Computing (Smart Technologies) Graduate passionate about **AI, cloud, and data-driven solutions**.  
-💼 Contributed as an **Intern Project Developer at AQUA-Sensor**, developing a **cloud-native system** for real-time **river data collection and visualization**.  
-🌱 Continuously expanding skills in **software development, machine learning, cloud architecture, and full-stack development** to create scalable, impactful solutions.  
+### 🚀 AI & Cloud-Focused Software Developer | First-Class Computing Graduate  
+
+🎓 First-Class BSc (Hons) Computing (Smart Technologies) graduate passionate about building **scalable AI, cloud, and data-driven systems**.  
+💼 Former **Project Developer Intern at AQUA-Sensor**, where I helped develop a **cloud-native platform** for real-time **river data collection, processing, and visualisation**.  
+🌱 Continuously expanding my skills in **software engineering, machine learning, and cloud architecture** to create impactful, production-ready solutions.  
+
+🔍 **Currently seeking graduate / junior roles in Software Engineering, AI, or Cloud.**
+
+---
+
+## 🌟 Featured Projects  
+
+🚀 **AI-Powered Finance Assistant**  
+Built an intelligent receipt processing and analytics platform using **OCR, APIs, and Azure cloud services** to automate expense tracking and visualise spending insights.
+
+🌊 **Real-Time River Monitoring System (AquaSensor Internship)**  
+Contributed to a **cloud-based environmental data system** handling live sensor data ingestion, storage, and dashboard visualisation.
+
+📊 **Sales Data Warehouse & BI Dashboard**  
+Designed ETL pipelines and built a **750K+ record data mart** with interactive dashboards to support business decision-making.
+
+🤖 **GIA – AI Productivity Discord Bot**  
+Developed a Python-based bot with scheduling, reminders, and motivational systems, deployed with **CI/CD** for continuous updates.
 
 ---
 
@@ -17,35 +36,21 @@
 
 ## 🛠️ Tech Stack  
 
-### Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) 
+### 💻 Programming & Backend  
+Python • Java • C# • SQL • Django • REST APIs  
 
-### Web & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+### 🌐 Web & Frontend  
+JavaScript • React • Next.js • HTML • CSS  
 
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+### ☁️ Cloud & DevOps  
+Azure • Docker • Git • GitHub • CI/CD  
 
-### Data & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+### 📊 Data & AI  
+Pandas • Matplotlib • Tableau • Machine Learning • Data Warehousing • ETL  
 
 ---
 
 ## 📊 GitHub Stats  
-
-Here’s a quick snapshot of my GitHub activity and most-used languages:
 
 ![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jack-kong&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-kong&layout=compact&theme=radical)  
